@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/'
+import './algorithm/01-rotate-array'
