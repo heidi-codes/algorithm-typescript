@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/03-two-stacks-one-queue'
+import './algorithm/04-reverse-linked-list'
