@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/01-rotate-array'
+import './algorithm/02-valid-parentheses'
