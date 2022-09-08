@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/07-two-sum'
+import './algorithm/08-binary-search-tree'
