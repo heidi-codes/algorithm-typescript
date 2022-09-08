@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/05-queue-with-list'
+import './algorithm/06-binary-search'
