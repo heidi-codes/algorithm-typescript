@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/12-quick-sort'
+import './algorithm/13-palindrome-number'
