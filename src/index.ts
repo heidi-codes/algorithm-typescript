@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/13-palindrome-number'
+import './algorithm/14-thousandth-format'
