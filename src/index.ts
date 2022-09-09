@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/11-continuous-char'
+import './algorithm/12-quick-sort'
