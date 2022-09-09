@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/10-move-zero'
+import './algorithm/11-continuous-char'
