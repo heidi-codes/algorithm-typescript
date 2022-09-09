@@ -3,4 +3,4 @@
  * @author Heidi Codes
  */
 
-import './algorithm/14-thousandth-format'
+import './algorithm/15-switch-letter-case'
